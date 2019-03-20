@@ -1,0 +1,35 @@
+h1 {
+  font-family: sans-serif;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+.one {
+  border: 2px solid darkblue;
+  background-color: lightblue;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.two {
+  border: 2px solid darkred;
+  background-color: pink;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.three {
+  border: 2px solid green;
+  background-color: lightgreen;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.four {
+  border: 2px solid orange;
+  background-color: lightyellow;
+  padding: 10px;
+  margin-bottom: 15px;
+}
